@@ -1,4 +1,45 @@
-User-agent: *
-Disallow: 
+# robots.txt for SOVO International School
 
-Sitemap:  https://sovoschool.org/sitemap.xml
+# Allow all major bots full access to the site
+User-agent: *
+Allow: /
+
+# Allow GPTBot, PerplexityBot, ClaudeBot, Claude-Web, Google-Extended, Bingbot, GrokBot full access
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Googlebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GrokBot
+Allow: /
+
+# Marketing bots crawl delay to reduce server load
+User-agent: AhrefsBot
+Crawl-delay: 20
+
+User-agent: SemrushBot
+Crawl-delay: 20
+
+User-agent: Majestic-12
+Crawl-delay: 20
+
+User-agent: BLEXBot
+Crawl-delay: 20
+
+# Sitemap location
+Sitemap: https://sovoschool.org/sitemap.xml
+
+# End of robots.txt - Optimized for SEO and bot management
