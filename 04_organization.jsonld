@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://sovoschool.org/#organization",
+  "name": "Learn by doing. Rooted in Curiosity.",
+  "url": "https://sovoschool.org",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://sovoschool.org/logo.png"
+  },
+  "description": "A new kind of International Board school where children learn by doing. Join us as we shape curious minds for the real world.",
+  "foundingDate": "2022-01-01",
+  "sameAs": [
+    "https://www.linkedin.com/company/sovo-school",
+    "https://x.com/sovoschool",
+    "https://www.facebook.com/sovoschool",
+    "https://www.instagram.com/sovoschool"
+  ]
+}

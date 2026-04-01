@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://sovoschool.org/
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>1.0
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/code-of-conduct
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/safety-policy
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/404
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/admissions
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/privacy-policy
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/primary-years
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>1.0
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/early-years
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/anti-bullying-policy
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly
+</changefreq>
+    <priority>0.4
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/blog/raising-independent-confident-kind-children-the-trick-philosophy
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>0.5
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/blog/blending-the-world-s-best-early-childhood-philosophies-for-your-child-s-brightest-beginning
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>0.5
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/blog/lead-your-learning-helping-students-take-charge-of-how-they-learn
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>0.5
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/blog/why-first-principles-matter-and-why-sovo-is-built-on-them
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>0.5
+</priority>
+  </url>
+  <url>
+    <loc>https://sovoschool.org/blog
+</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>weekly
+</changefreq>
+    <priority>0.5
+</priority>
+  </url>
+</urlset>

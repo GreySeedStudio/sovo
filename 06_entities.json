@@ -1,0 +1,127 @@
+{
+  "site": "https://sovoschool.org/",
+  "entity_count": 12,
+  "entities": [
+    {
+      "name": "Learn by doing. Rooted in Curiosity.",
+      "type": "home",
+      "description": "A new kind of International Board school where children learn by doing. Join us as we shape curious minds for the real world.",
+      "pages": [
+        "https://sovoschool.org/"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "Code of Conduct",
+      "type": "other",
+      "description": "This Code of Conduct outlines expected behaviour for all students, parents, staff, faculty, volunteers, and visitors of SOVO International.",
+      "pages": [
+        "https://sovoschool.org/code-of-conduct"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "Safety policy & child protection policy",
+      "type": "other",
+      "description": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/safety-policy"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "",
+      "type": "other",
+      "description": "",
+      "pages": [
+        "https://sovoschool.org/",
+        "https://sovoschool.org/code-of-conduct",
+        "https://sovoschool.org/safety-policy",
+        "https://sovoschool.org/404",
+        "https://sovoschool.org/admissions",
+        "https://sovoschool.org/privacy-policy",
+        "https://sovoschool.org/primary-years",
+        "https://sovoschool.org/early-years",
+        "https://sovoschool.org/anti-bullying-policy",
+        "https://sovoschool.org/blog/raising-independent-confident-kind-children-the-trick-philosophy",
+        "https://sovoschool.org/blog/blending-the-world-s-best-early-childhood-philosophies-for-your-child-s-brightest-beginning",
+        "https://sovoschool.org/blog/lead-your-learning-helping-students-take-charge-of-how-they-learn",
+        "https://sovoschool.org/blog/why-first-principles-matter-and-why-sovo-is-built-on-them",
+        "https://sovoschool.org/blog"
+      ],
+      "mentions": 14
+    },
+    {
+      "name": "Simple yet selective admission process, Admission Protocol",
+      "type": "other",
+      "description": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/admissions"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "SOVO international school",
+      "type": "other",
+      "description": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/privacy-policy"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "SOVO International School",
+      "type": "home",
+      "description": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/primary-years"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "Early years education",
+      "type": "other",
+      "description": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/early-years"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "Raising Independent, Confident, Kind Children - The TRICK Philosophy",
+      "type": "blog",
+      "description": "SOVO international school offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/blog/raising-independent-confident-kind-children-the-trick-philosophy"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "Blending the World’s Best Early-Childhood Philosophies for Your Child’s Brightest Beginning",
+      "type": "blog",
+      "description": "SOVO international school offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/blog/blending-the-world-s-best-early-childhood-philosophies-for-your-child-s-brightest-beginning"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "Lead Your Learning: Helping Students Take Charge of How They Learn",
+      "type": "blog",
+      "description": "SOVO international school offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/blog/lead-your-learning-helping-students-take-charge-of-how-they-learn"
+      ],
+      "mentions": 1
+    },
+    {
+      "name": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "type": "blog",
+      "description": "SOVO International School offers playclass to grade 4 education through a unique blend of the International Board curriculum and our fifth year model, where students learn by doing",
+      "pages": [
+        "https://sovoschool.org/blog"
+      ],
+      "mentions": 1
+    }
+  ]
+}
